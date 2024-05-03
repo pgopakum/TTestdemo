@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result:DocumentRoot xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:result="http://www.compuware.com/model/xml/result">
+<?totaltestVersion 20.11.3.v20220822-1731_153?><!--Topaz for Total Test 20.11.3.v20220822-1731_153 28-Mar-2024 17:30:54-->  <result>
+    <testsuiteResult errorCount="0" failureCount="0" testCount="32">
+      <testscenarioResults errorCount="0" failureCount="0" testCount="32">
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="55000.00" expectedValue="55000.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="3300.00" expectedValue="3300.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase1"/>
+        </testcaseResults>
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="70000.00" expectedValue="70000.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="5600.00" expectedValue="5600.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase2"/>
+        </testcaseResults>
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="25000.00" expectedValue="25000.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="1000.00" expectedValue="1000.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase3"/>
+        </testcaseResults>
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="75000.00" expectedValue="75000.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="6000.00" expectedValue="6000.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase4"/>
+        </testcaseResults>
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="55550.00" expectedValue="55550.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="3333.00" expectedValue="3333.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase5"/>
+        </testcaseResults>
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="75000.00" expectedValue="75000.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="6000.00" expectedValue="6000.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase6"/>
+        </testcaseResults>
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="28000.00" expectedValue="28000.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="1120.00" expectedValue="1120.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase7"/>
+        </testcaseResults>
+        <testcaseResults errorCount="0" failureCount="0" testCount="4">
+          <results actualValue="0" expectedValue="0" name="Check for RETURN_CODE" result="Success"/>
+          <results actualValue="S" expectedValue="S" name="Check for EMP_TYPE" result="Success"/>
+          <results actualValue="75000.00" expectedValue="75000.00" name="Check for SALES_AMOUNT" result="Success"/>
+          <results actualValue="6000.00" expectedValue="6000.00" name="Check for COMM_TOTAL" result="Success"/>
+          <testcase href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario%23CWXTSUBCCase8"/>
+        </testcaseResults>
+        <testscenario href="CWXTSUBC_Scenario.archive#Tests/Scenarios/CWXTSUBC_Scenario.testscenario"/>
+      </testscenarioResults>
+      <testsuite href="CWXTSUBC_Scenario.archive#%5C.temp%5CCWXTSUBC_Scenario.testsuite"/>
+    </testsuiteResult>
+  </result>
+</result:DocumentRoot>

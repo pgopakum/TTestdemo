@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="44e0cbcb-bab6-4db8-8c7c-48b0b935676b" logLevel="INFO" remote="false" useSimulations="true" uploadResult="false" timeout="600" readTimeout="30" debuggerType="NONE" jobInfoInterval="3" useRepository="false">
+  <ExtensionData>
+    <Parameter key="unittest.loadlibraries">
+      <Value>PINPGS0.IW.PLAY.DEV1.LOAD</Value>
+    </Parameter>
+  </ExtensionData>
+  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTSUBC" caseInsensitiveCompare="false" path="CWXTSUBC_Scenario.testscenario">
+    <Test>
+      <Unittest testscenariopath="CWXTSUBC_Scenario.testscenario" moduleName="CWXTSUBC" />
+    </Test>
+  </XaUnit>
+</ExecutionContext>

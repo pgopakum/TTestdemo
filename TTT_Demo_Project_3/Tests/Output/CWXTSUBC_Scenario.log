@@ -1,0 +1,42 @@
+17:33:13.475 INFO      TOPAZ            ***************************************
+17:33:13.476 INFO      TOPAZ            ** Execution from Topaz with options **
+17:33:13.476 INFO      TOPAZ            ***************************************
+17:33:13.476 INFO      TOPAZ            Using repository: false
+17:33:13.476 INFO      TOPAZ            ***************************************
+17:33:13.477 INFO      Engine           Test Scenario execution started
+17:33:13.478 INFO      Engine           Using context settings:
+  Engine Version                : 20.11.3.v20220822-1731_153
+  Environment id                : 44e0cbcb-bab6-4db8-8c7c-48b0b935676b
+  Environment type              : Batch
+  Operating system              : ZOS
+  zOS agent version             : NEWEST
+  Server address                : 172.19.4.214
+  Server port                   : 16666
+  Job execution timeout seconds : 600
+  Job info interval seconds     : 3
+  Socket read timeout           : 30
+  Encoding                      : ISO8859-1
+  Codepage                      : 1047
+  Host user Id                  : PINPGS0
+  Use Repository Server         : false
+  Account Information           : 
+  Dataset High Level Qualifier  : 
+17:33:13.478 INFO      Engine           Setting variables from context and context data extensions
+17:33:13.478 INFO      Engine             id: environmentId      value: 44e0cbcb-bab6-4db8-8c7c-48b0b935676b
+17:33:13.478 INFO      Engine             id: environmentType    value: BATCH
+17:33:13.479 INFO      Engine             id: userId             value: PINPGS0
+17:33:13.479 INFO      Engine             id: accountingInfo     value: 
+17:33:13.479 INFO      Engine             id: datasetHQL         value: 
+17:33:13.479 INFO      Unittest         Interpreting Unittest of module: CWXTSUBC testscenario path: CWXTSUBC_Scenario.testscenario
+17:33:13.676 INFO      Unittest         Using JCL skeleton to submit JCL
+17:33:17.892 INFO      CW06             Sending Job execution request to Host 
+17:33:23.241 INFO      CW06             Job execution completed with status:
+  Job status     : COMPLETED
+  Job status msg : Job PINPGS0A(JOB66347) ended with return code: 0000
+  Job name       : PINPGS0A
+  Job id         : JOB66347
+  Return code    : 0000
+  Abend code     : 
+  Abend reason   : 
+17:33:25.123 INFO      Unittest         Execution completed
+17:33:25.124 INFO      Engine           Test Scenario execution ended
