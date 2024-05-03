@@ -23,6 +23,6 @@ steps:
     UserID: 'pinpgs0'
     Password: 'Feb$2024'
     TestLocationPath: 'C:\Users\pgopakum\Compuware\Workbench\workspace_1\TTT_Demo_Project_3\Tests\Scenarios'
-    CLIInstallationPath: 'C:\Users\pgopakum\BMC\Workbench CLI'
+    CLIInstallationPath: 'C:\Users\pgopakum\BMC\Workbench CLI\'
     Configuration: 'LocalTTTConf'
     LocalTTTConfiguration: 'C:\Users\pgopakum\Compuware\Workbench\workspace_1\TotalTestConfiguration'
