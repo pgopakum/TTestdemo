@@ -21,7 +21,7 @@ steps:
   inputs:
     HCIConnection: 'CW01:16196'
     UserID: 'pinpgs0'
-    Password: 'Feb$2024'
+    Password: 'May$2024'
     TestLocationPath: 'C:\Users\pgopakum\Compuware\Workbench\workspace_1\TTT_Demo_Project_3\Tests\Scenarios'
     CLIInstallationPath: 'C:\Users\pgopakum\BMC\Workbench CLI\'
     Configuration: 'LocalTTTConf'
